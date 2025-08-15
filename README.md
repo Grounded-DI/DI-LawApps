@@ -1,6 +1,6 @@
 #DeterministicIntelligence #DI #Scroll91 #GroundedDI #MSWESQ
 
-# ⚖️ Grounded-DI/DI-Legal (Pstent-Pending Legal Suite)
+# ⚖️ Grounded-DI/DI-Legal (Patent-Pending Legal Suite)
 
 **Deterministic Legal Systems for Safe AI Use in Law**
 
