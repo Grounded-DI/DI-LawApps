@@ -1,34 +1,17 @@
-#DeterministicIntelligence #DI #Scroll91 #GroundedDI #MSWESQ
+# Grounded DI Law Apps
 
-# ⚖️ Grounded-DI/DI-Legal (Patent-Pending Legal Suite)
+**Grounded DI LLC · Mark S. Weinstein**
 
-**Deterministic Legal Systems for Safe AI Use in Law**
+This repository collects BriefWise and VerdictBridge legal demonstrations, a legal ethics memo, and visual records of asbestos exposure and motion review.
 
-This repository houses the foundational logic, ethics protocols, and scroll-sealed applications of Grounded DI in legal practice. It includes:
+## Review the records
 
-- 🧠 **BriefWise** – A deterministic legal motion engine
-- 🧰 **Authorship Defense Tools** – Honeypots, trap phrases, tone-lock architecture
-- 🗂️ **Legal ZIP Systems** – Sealed delivery of court-safe legal reasoning
-- 🧾 **Legal Ethics Memo** – Analysis of BriefWise vs. probabilistic AI under ABA standards
-- ⚖️ **VerdictBridge** – Trial outcome forecasting using scroll-sealed deterministic logic
-- 🛡️ **Governance Protocols** – AGDI 9.9, DIA engine, and Scroll 91 authorship control
+- [BriefWise motion demonstration](BriefWise_MSJ_Demo_8-14-25.txt) and [motion package](BriefWise_DI2_Motion_9-2-25) show structured motion analysis.
+- [DIA summary judgment analysis](DIA_MSJ_Gregg_v_Georgia.pdf) and the [BriefWise asbestos report](6-7-25_BriefWise_Visual_Asbestos_Report.pdf) present legal reasoning examples.
+- [VerdictBridge Demo 02](VerdictBridge_Demo_02.md) records a civil trial analysis.
+- [Legal Ethics Memo](Legal_Ethics_Memo_BriefWise_vs_Other_AI.md) discusses authority filtering, confidentiality, reproducibility, and professional responsibility.
+- The exposure maps, liability wheel, causation diagram, and summary judgment chart provide visual examples of the workflow.
 
----
+The demonstrations illustrate how Grounded DI organizes facts, sources, and attorney review. Their case-specific conclusions require current source and record checks before use in a live matter.
 
-## 🔍 Why This Matters
-
-Unlike probabilistic legal AI, Grounded DI’s legal tools are scroll-bound, citation-filtered, and traceable. Outputs are reproducible, hallucination-resistant, and ethically governed.
-
-> For truth, tone, and traceability – law deserves better than black boxes.
-
----
-
-## 📂 Now Included
-
-- `Legal_Ethics_Memo_BriefWise_vs_Other_AI.md`
-- `VerdictBridge_Launch_Demo_01.md` (Scroll 91 linked)
-- `README.md` (this file)
-
-All documents are sealed under authorship by **MSW** and governed by deterministic scroll logic.
-
-#DI #DeterministicIntelligence #VerdictBridge #BriefWise #DepoBot #PIDBot
+© Grounded DI LLC
